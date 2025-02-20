@@ -8,9 +8,9 @@ Siempre buscando aprender y crear soluciones innovadoras. 🚀
 ---
 
 ### 🛠️ Tecnologías y herramientas  
-🔹 **Lenguajes:** Java, JavaScript, Python, C++  
+🔹 **Lenguajes:** Java, JavaScript, Python, C++, Html, CSS  
 🔹 **Frameworks & Librerías:** Angular, Bootstrap, Spring Boot, Laravel  
-🔹 **Bases de Datos:** MySQL  
+🔹 **Bases de Datos:** MySQL, MongoDB, Xamp
 🔹 **Herramientas:** Git, Azure, Microsoft Office  
 
 ---
@@ -30,10 +30,7 @@ Siempre buscando aprender y crear soluciones innovadoras. 🚀
   <a href="https://linktr.ee/Cristian_Reyes" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
   </a>
-  <a href="https://www.instagram.com/cristian_cadc13
-
-<a href="https://www.instagram.com/cristian_cadc13" target="_blank">
+  <a href="https://www.instagram.com/cristian_cadc13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
