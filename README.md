@@ -24,7 +24,16 @@ Siempre buscando aprender y crear soluciones innovadoras. 🚀
 
 ### 📫 Conéctate conmigo  
 <p align="center">
-  <a href="URL_DE_TU_LINKEDIN"><img src="https://www.linkedin.com/in/cristian-johan-reyes-gutierrez-751bb22b0/"></a>
-  <a href="URL_DE_TU_LINKTREE"><img src="https://linktr.ee/Cristian_Reyes"></a>
-  <a href="mailto:TUCORREO@ejemplo.com"><img src="https://www.instagram.com/cristian_cadc13"></a>
+  <a href="https://www.linkedin.com/in/cristian-johan-reyes-gutierrez-751bb22b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://linktr.ee/Cristian_Reyes" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://www.instagram.com/cristian_cadc13
+
+https://www.instagram.com/cristian_cadc13" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
