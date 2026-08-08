@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Cristian</h1>
 
 <p align="center">
-💻 Estudiante de <strong>Ingeniería de Software</strong> apasionado por la tecnología, el desarrollo web y la optimización de bases de datos.  
+💻 Profesional de <strong>Ingeniería de Software</strong> apasionado por la tecnología, el desarrollo web y la optimización de bases de datos.  
 Siempre buscando aprender y crear soluciones innovadoras. 🚀
 </p>
 
@@ -9,7 +9,7 @@ Siempre buscando aprender y crear soluciones innovadoras. 🚀
 
 ### 🛠️ Tecnologías y herramientas  
 🔹 **Lenguajes:** Java, JavaScript, Python, C++, Html, CSS  
-🔹 **Frameworks & Librerías:** Angular, Bootstrap, Spring Boot, Laravel  
+🔹 **Frameworks & Librerías:** Angular, Bootstrap, Spring Boot, Laravel,React  
 🔹 **Bases de Datos:** MySQL, MongoDB, Xamp
 🔹 **Herramientas:** Git, Azure, Microsoft Office  
 
