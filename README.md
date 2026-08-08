@@ -16,9 +16,12 @@ Siempre buscando aprender y crear soluciones innovadoras. 🚀
 ---
 
 ### 💼 Experiencia  
-- 🎨 **Front-End Developer | Fábrica de Software - Uniempresarial**  
-- 🖥️ **Soporte Técnico | Minority Chamber of Commerce**  
-- 📊 **Soporte Técnico | Kaniluu**  
+-  **Full Stack | Invest in Bogota**
+-  **Desarrollador Movil | Global Snopek**
+-  **Web Master | Beads Bisuteria**
+-  **Front-End Developer | Fábrica de Software - Uniempresarial**  
+-  **Soporte Técnico | Minority Chamber of Commerce**  
+-  **Soporte Técnico | Kaniluu**  
 
 ---
 
